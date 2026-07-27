@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -76,4 +76,3 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_TITLE: ${{ steps.summary.outputs.issue_title }}
         run: gh issue create --title "$ISSUE_TITLE" --body-file output/issue_body.md
-
