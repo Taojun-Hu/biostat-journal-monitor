@@ -1,0 +1,31 @@
+journals:
+  - name: "Journal of the American Statistical Association"
+    issn: 0162-1459
+    screening: broad
+  - name: "Biometrika"
+    issn: 0006-3444
+    screening: broad
+  - name: "Journal of the Royal Statistical Society: Series B"
+    issn: 1369-7412
+    screening: broad
+  - name: "The Annals of Statistics"
+    issn: 0090-5364
+    screening: broad
+  - name: "Biometrics"
+    issn: 0006-341X
+    screening: core
+  - name: "Biostatistics"
+    issn: 1465-4644
+    screening: core
+  - name: "Statistics in Medicine"
+    issn: 0277-6715
+    screening: core
+  - name: "Statistical Methods in Medical Research"
+    issn: 0962-2802
+    screening: core
+  - name: "Journal of the Royal Statistical Society: Series C"
+    issn: 0035-9254
+    screening: broad
+  - name: "The Annals of Applied Statistics"
+    issn: 1932-6157
+    screening: broad

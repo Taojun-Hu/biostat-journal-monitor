@@ -1,0 +1,79 @@
+name: Monthly biostatistics journal check
+
+on:
+  schedule:
+    - cron: "15 8 1 * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: Number of publication days to query
+        required: false
+        default: "45"
+      as_of:
+        description: Optional end date in YYYY-MM-DD format
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: monthly-biostatistics-check
+  cancel-in-progress: false
+
+jobs:
+  check-journals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Fetch and screen new papers
+        env:
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '45' }}
+          AS_OF: ${{ github.event.inputs.as_of || '' }}
+        run: |
+          args=(--lookback-days "$LOOKBACK_DAYS")
+          if [ -n "$AS_OF" ]; then
+            args+=(--as-of "$AS_OF")
+          fi
+          python scripts/monthly_checker.py "${args[@]}"
+      - name: Read run summary
+        id: summary
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          data = json.loads(Path("output/run_summary.json").read_text())
+          with open(os.environ["GITHUB_OUTPUT"], "a") as handle:
+              for key in ("new_count", "included_count", "review_count", "report_stem", "issue_title"):
+                  handle.write(f"{key}={data[key]}\n")
+          PY
+      - name: Commit reports and DOI state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          if git diff --cached --quiet; then
+            echo "No repository changes to commit."
+          else
+            git commit -m "Update monthly journal report"
+            git push
+          fi
+      - name: Create notification issue
+        if: steps.summary.outputs.new_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_TITLE: ${{ steps.summary.outputs.issue_title }}
+        run: gh issue create --title "$ISSUE_TITLE" --body-file output/issue_body.md
+
