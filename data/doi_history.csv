@@ -1,0 +1,155 @@
+doi,first_seen,publication_date,journal,decision,title
+10.1002/sim.70613,2026-07-27,2026-06-24,Statistics in Medicine,Included,Subgroup Analysis of Interval‐censored Failure Time Data With Application to Alzheimer's Disease
+10.1002/sim.70622,2026-07-27,2026-06-24,Statistics in Medicine,Included,Rejoinder to Commentaries on “A Perspective on the Appropriate Implementation of <scp>ICH E9</scp> ( <scp>R1</scp> ) Addendum Strategies for Handling Intercurrent Events”
+10.1002/sim.70638,2026-07-27,2026-07-01,Statistics in Medicine,Included,Optimal Weighted Tests for Replication Studies and the ‘Two‐Trials Rule’ With Multiple Hypotheses
+10.1002/sim.70642,2026-07-27,2026-06-24,Statistics in Medicine,Included,A Multi‐Stage Drop‐the‐Loser Design With Superiority Boundaries
+10.1002/sim.70643,2026-07-27,2026-06-23,Statistics in Medicine,Included,Improving Variance and Confidence Interval Estimation in Small‐Sample Propensity Score Analyses: Bootstrap Versus Asymptotic Methods
+10.1002/sim.70644,2026-07-27,2026-06-23,Statistics in Medicine,Included,Caveats on Using Firth's Penalization in the Model‐Based Regression Standardization for Rare Diseases
+10.1002/sim.70645,2026-07-27,2026-07-01,Statistics in Medicine,Included,Pragmatic Designs for Combining Cyclic Laboratory and Monitor Data
+10.1002/sim.70646,2026-07-27,2026-06-30,Statistics in Medicine,Included,Beyond Fixed Thresholds: Optimizing Summaries of Wearable Device Data via Piecewise Linearization of Quantile Functions
+10.1002/sim.70647,2026-07-27,2026-07-01,Statistics in Medicine,Included,Identifiable Copula‐Double‐Cox Models: A Fully Parametric Framework for Dependent Right‐Censored Survival Data
+10.1002/sim.70648,2026-07-27,2026-06-26,Statistics in Medicine,Included,A Causal Framework for Evaluating the Total Effect of Strategies Aiming to Expand Screening and to Improve Outcomes
+10.1002/sim.70649,2026-07-27,2026-07-01,Statistics in Medicine,Included,"Semiparametric Panel Count Model, With Applications to Signal Detection in Post‐Market Drug Surveillance Systems"
+10.1002/sim.70650,2026-07-27,2026-06-25,Statistics in Medicine,Included,Causal Effects on Nonterminal Event Time With Application to Antibiotic Usage and Future Resistance
+10.1002/sim.70651,2026-07-27,2026-07-01,Statistics in Medicine,Included,Efficiency Enhancement in Testing Treatment Efficacy Across Multiple Populations Using Treatment Crossover Data
+10.1002/sim.70652,2026-07-27,2026-07-01,Statistics in Medicine,Included,Practical Considerations for Gaussian Process Modeling for Causal Inference in Quasi‐Experimental Studies With Panel Data
+10.1002/sim.70653,2026-07-27,2026-06-23,Statistics in Medicine,Included,Interpretable ROI Identification in Brain Image Analysis: Overcoming CNN Black Box Challenges With Kriging‐Enhanced Adaptive Sampling
+10.1002/sim.70654,2026-07-27,2026-07-01,Statistics in Medicine,Included,Novel Distance Regression for Repeated Outcomes With Missing Data: Applications to Longitudinal and Crossover Studies of Microbiome Beta‐Diversity
+10.1002/sim.70656,2026-07-27,2026-07-01,Statistics in Medicine,Included,A Bayesian Learning Model for Joint Risk Prediction of Alcohol and Cannabis Use Disorders
+10.1002/sim.70657,2026-07-27,2026-06-30,Statistics in Medicine,Included,Covariate Adjustment for Wilcoxon Two Sample Statistic and Test
+10.1002/sim.70658,2026-07-27,2026-07-01,Statistics in Medicine,Included,Predictor‐Assisted Nonparametric Graphical Models With Multivariate Error‐Prone Data
+10.1002/sim.70659,2026-07-27,2026-07-01,Statistics in Medicine,Included,Moving From Individualized Risk‐Based Prevention to Benefit‐Based Prevention: Estimating Individualized Life‐Years Gained From Prevention Services as a Basis for Eligibility
+10.1002/sim.70660,2026-07-27,2026-07-01,Statistics in Medicine,Included,Latent Class Log‐Linear Models for Estimating Diagnostic Test Accuracy Without a Gold Standard: A Simulation Study
+10.1002/sim.70661,2026-07-27,2026-07-01,Statistics in Medicine,Included,A Mixture of Distributed Lag Non‐Linear Models to Account for Spatially Heterogeneous Exposure‐Lag‐Response Associations
+10.1002/sim.70662,2026-07-27,2026-07-01,Statistics in Medicine,Included,Adaptive Sequential Multiple Hypotheses Testing for Concomitant Vaccine Safety Surveillance
+10.1002/sim.70663,2026-07-27,2026-07-01,Statistics in Medicine,Included,Checking Genetic Homogeneity Between Two Samples Using Summary Statistics With Application to Mendelian Randomization
+10.1002/sim.70664,2026-07-27,2026-07-01,Statistics in Medicine,Included,Composite Categorical Regression for Correlated Categorical Exposures: Application to Adverse Childhood Experiences and Their Health Effects
+10.1002/sim.70665,2026-07-27,2026-07-01,Statistics in Medicine,Included,Transformation Discriminant Analysis for Constructing Optimal Biomarker Combinations
+10.1002/sim.70666,2026-07-27,2026-07-01,Statistics in Medicine,Included,Interpretable Bayesian Modeling for Multireader Multicase Studies: Addressing Overdispersion and Limited Sample Size in Diagnostic Enhancement Evaluation
+10.1002/sim.70667,2026-07-27,2026-07-01,Statistics in Medicine,Included,Bayesian Bidirectional Mendelian Randomization Under Correlated and Uncorrelated Pleiotropy Using GWAS Summary Statistics
+10.1002/sim.70668,2026-07-27,2026-07-01,Statistics in Medicine,Included,Optimizing Treatment Decision Estimation for Right‐Censored Survival Data Through Parameter Transfer Learning
+10.1002/sim.70669,2026-07-27,2026-07-01,Statistics in Medicine,Included,LEARNER: A Transfer Learning Method for Low‐Rank Matrix Estimation
+10.1002/sim.70671,2026-07-27,2026-07-01,Statistics in Medicine,Included,Reluctant Transfer Learning in Penalized Regressions for Individualized Treatment Rules Under Effect Heterogeneity
+10.1002/sim.70672,2026-07-27,2026-07-01,Statistics in Medicine,Included,Choosing Covariate Balancing Methods for Causal Inference: Practical Insights From a Simulation Study
+10.1002/sim.70673,2026-07-27,2026-07-01,Statistics in Medicine,Included,Frequentist Identification of Effective Baskets via the Generalized Information Criteria in Oncology Phase 2 Trials
+10.1002/sim.70674,2026-07-27,2026-07-21,Statistics in Medicine,Included,Inverse‐Intensity‐Weighted Generalized Estimating Equations With Irregularly Measured Longitudinal Data and Informative Dropout
+10.1002/sim.70675,2026-07-27,2026-07-01,Statistics in Medicine,Included,Multi‐Level Latent Variable Models for Coheritability Analysis in Electronic Health Records
+10.1002/sim.70676,2026-07-27,2026-07-22,Statistics in Medicine,Included,A Cautionary Note for Plasmode Simulation Studies in the Setting of Causal Inference
+10.1002/sim.70677,2026-07-27,2026-07-21,Statistics in Medicine,Included,Designing Efficient Multicenter Trials With a Maximin Strategy
+10.1002/sim.70678,2026-07-27,2026-07-23,Statistics in Medicine,Included,Low‐Rank Variational Correction Estimation for Multi‐Source Heterogeneous Quantile Linear Regression Models
+10.1002/sim.70679,2026-07-27,2026-07-23,Statistics in Medicine,Included,On the Statistical Limitations of Landmark Analysis for Addressing Immortal Time Bias
+10.1080/01621459.2026.2654225,2026-07-27,2026-07-07,Journal of the American Statistical Association,Included,Investigating Spatial Dynamics in Spatial Omics Data with StarTrail
+10.1080/01621459.2026.2663587,2026-07-27,2026-07-13,Journal of the American Statistical Association,Included,Constructing Genetic Risk Scores: Robust Bayesian Approach through Projected Summary Statistics and Flexible Shrinkage
+10.1080/01621459.2026.2675377,2026-07-27,2026-07-20,Journal of the American Statistical Association,Included,"Clinical Trial Modernization: Technological, Operational, and Regulatory Advances"
+10.1080/01621459.2026.2687835,2026-07-27,2026-06-16,Journal of the American Statistical Association,Needs Review,Identifiability and Inference for Generalized Latent Factor Models
+10.1080/01621459.2026.2687844,2026-07-27,2026-06-15,Journal of the American Statistical Association,Needs Review,Enhanced localized conformal prediction with imperfect auxiliary information
+10.1080/01621459.2026.2688572,2026-07-27,2026-06-16,Journal of the American Statistical Association,Included,Fairness-aware Gaussian Graphical Regression Models with Application to Brain Co-expression QTL Studies
+10.1080/01621459.2026.2688612,2026-07-27,2026-06-16,Journal of the American Statistical Association,Needs Review,Parallelly Tempered Generative Adversarial Nets: Toward Stabilized Gradients
+10.1080/01621459.2026.2688950,2026-07-27,2026-07-21,Journal of the American Statistical Association,Included,Scalable Bayesian Inference for Time Series via Divide and Conquer
+10.1080/01621459.2026.2689629,2026-07-27,2026-06-23,Journal of the American Statistical Association,Included,Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments*
+10.1080/01621459.2026.2689641,2026-07-27,2026-06-17,Journal of the American Statistical Association,Needs Review,Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression
+10.1080/01621459.2026.2690121,2026-07-27,2026-06-23,Journal of the American Statistical Association,Included,Interpretable Scalar-on-Image Linear Regression Models via the Generalized Dantzig Selector
+10.1080/01621459.2026.2691322,2026-07-27,2026-06-17,Journal of the American Statistical Association,Included,Channeling Multimodality Through a Unimodalizing Transport: Warp-U Sampler and Stochastic Bridge Sampling Estimator
+10.1080/01621459.2026.2692052,2026-07-27,2026-06-23,Journal of the American Statistical Association,Included,Anytime-Valid Inference in Linear Models with Applications to Regression-Adjusted Causal Inference
+10.1080/01621459.2026.2692074,2026-07-27,2026-06-23,Journal of the American Statistical Association,Needs Review,Optimally adaptive test for high dimensional hypotheses via minimax deficiency
+10.1080/01621459.2026.2692078,2026-07-27,2026-06-29,Journal of the American Statistical Association,Needs Review,Minimum Volume Conformal Sets for Multivariate Regression
+10.1080/01621459.2026.2695450,2026-07-27,2026-07-14,Journal of the American Statistical Association,Needs Review,Canonical correlation analysis of stochastic trends via functional approximation
+10.1080/01621459.2026.2696482,2026-07-27,2026-07-06,Journal of the American Statistical Association,Needs Review,High-dimensional inference for extreme value indices
+10.1080/01621459.2026.2696486,2026-07-27,2026-07-06,Journal of the American Statistical Association,Needs Review,Kernel-based Adaptive Huber Mean Regression with Heavy Tails and Contamination
+10.1080/01621459.2026.2696607,2026-07-27,2026-07-06,Journal of the American Statistical Association,Included,Double/Debiased Machine Learning for Treatment Effects in Dynamic Panels
+10.1080/01621459.2026.2696737,2026-07-27,2026-07-06,Journal of the American Statistical Association,Included,Adjusting auxiliary variables under approximate neighborhood interference
+10.1080/01621459.2026.2697050,2026-07-27,2026-07-08,Journal of the American Statistical Association,Included,Multilinear Ordinary Differential Equations for Inferring Gene Regulatory Network from Multimodal Functional Data
+10.1080/01621459.2026.2698025,2026-07-27,2026-07-08,Journal of the American Statistical Association,Included,MOSAiC: Multi-site One-Shot Aggregation of Compressed Risk Functions
+10.1080/01621459.2026.2698136,2026-07-27,2026-07-08,Journal of the American Statistical Association,Included,Contrastive Learning on Multimodal Analysis of Electronic Health Records
+10.1080/01621459.2026.2699463,2026-07-27,2026-07-14,Journal of the American Statistical Association,Needs Review,Collective Outlier Detection and Enumeration with Conformalized Closed Testing
+10.1080/01621459.2026.2699465,2026-07-27,2026-07-08,Journal of the American Statistical Association,Included,Enhanced Marginal Sensitivity Model and Bounds
+10.1080/01621459.2026.2699466,2026-07-27,2026-07-08,Journal of the American Statistical Association,Excluded,Beta-Trees: Multivariate Histograms With Confidence Statements
+10.1080/01621459.2026.2700401,2026-07-27,2026-07-08,Journal of the American Statistical Association,Included,"Safe, Always-Valid Alpha-Investing Rules For Doubly Sequential Online Inference"
+10.1080/01621459.2026.2700798,2026-07-27,2026-07-14,Journal of the American Statistical Association,Included,Bayesian Spatiotemporal Wombling
+10.1080/01621459.2026.2701436,2026-07-27,2026-07-15,Journal of the American Statistical Association,Needs Review,Observable versus Latent Factors
+10.1080/01621459.2026.2702652,2026-07-27,2026-07-15,Journal of the American Statistical Association,Included,A Unified Framework for Rerandomization using Quadratic Forms
+10.1080/01621459.2026.2702653,2026-07-27,2026-07-15,Journal of the American Statistical Association,Needs Review,Gaussian Invariant Markov Chain Monte Carlo
+10.1080/01621459.2026.2704884,2026-07-27,2026-07-15,Journal of the American Statistical Association,Needs Review,Double Generalized Linear Models: Likelihood and Bayesian Methods
+10.1093/biomet/asag037,2026-07-27,2026-06-16,Biometrika,Included,Quasi-Bayes empirical Bayes: a sequential approach to the Poisson compound decision problem
+10.1093/biomet/asag038,2026-07-27,2026-06-16,Biometrika,Included,Inference on covariance structure in high-dimensional multi-view data
+10.1093/biomet/asag040,2026-07-27,2026-06-23,Biometrika,Needs Review,A new class of functional conditional autoregressive models
+10.1093/biomet/asag041,2026-07-27,2026-06-23,Biometrika,Included,On the inverse of covariance matrices for unbalanced crossed designs
+10.1093/biomet/asag042,2026-07-27,2026-06-25,Biometrika,Included,Asymmetric Penalties Underlie Proper Loss Functions in Probabilistic Forecasting
+10.1093/biomet/asag043,2026-07-27,2026-06-29,Biometrika,Needs Review,Log-Gaussian Cox process on general metric graphs
+10.1093/biomet/asag044,2026-07-27,2026-06-29,Biometrika,Included,Identify the source of spikes: factor or mixture?
+10.1093/biomet/asag045,2026-07-27,2026-07-07,Biometrika,Included,Post-reduction inference for confidence sets of models
+10.1093/biomet/asag046,2026-07-27,2026-07-07,Biometrika,Needs Review,Integral Probability Metric-Guided CUSUM-Net for Nonparametric Changepoint Detection
+10.1093/biomet/asag047,2026-07-27,2026-07-08,Biometrika,Needs Review,Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models
+10.1093/biomet/asag048,2026-07-27,2026-07-21,Biometrika,Needs Review,Aggregating conformal prediction sets via 𝜶-allocation
+10.1093/biomtc/ujag118,2026-07-27,2026-07-01,Biometrics,Included,Statistical analysis of disease onset during lifespan with left truncation
+10.1093/biomtc/ujag119,2026-07-27,2026-07-01,Biometrics,Included,One-at-a-time knockoffs
+10.1093/biomtc/ujag120,2026-07-27,2026-07-01,Biometrics,Included,Interim analysis in sequential multiple assignment randomized trials for survival outcomes
+10.1093/biomtc/ujag121,2026-07-27,2026-07-01,Biometrics,Included,Adaptive Bayesian multivariate spline knot inference with prior specifications on model complexity
+10.1093/biomtc/ujag123,2026-07-27,2026-07-01,Biometrics,Included,Unsupervised optimal deep transfer learning for classification under general conditional shift
+10.1093/biomtc/ujag124,2026-07-27,2026-07-01,Biometrics,Included,Distributionally balanced sampling designs
+10.1093/biomtc/ujag125,2026-07-27,2026-07-01,Biometrics,Included,Manifold-constrained Gaussian processes for inference of mixed-effects ordinary differential equations with application to pharmacokinetics
+10.1093/biomtc/ujag126,2026-07-27,2026-07-01,Biometrics,Included,FLAME: a model for duration-dependent risk accumulation in episodic temporal exposures
+10.1093/biomtc/ujag127,2026-07-27,2026-07-01,Biometrics,Included,Monitoring adverse events through Bayesian nonparametric clustering across studies
+10.1093/biomtc/ujag128,2026-07-27,2026-07-01,Biometrics,Included,Bayesian tele-connected spatial clustering of multivariate spatial data with applications to disease-mapping
+10.1093/biomtc/ujag129,2026-07-27,2026-07-01,Biometrics,Included,Bias reduction in g-computation for covariate adjustment in randomized clinical trials
+10.1093/biomtc/ujag130,2026-07-27,2026-07-01,Biometrics,Included,A Bayesian transfer learning model for mixed-effects longitudinal data analysis
+10.1093/biomtc/ujag131,2026-07-27,2026-07-01,Biometrics,Included,Individual causal effect estimation accounting for latent disease state modification among bipolar participants in mobile health studies
+10.1093/biomtc/ujag134,2026-07-27,2026-07-01,Biometrics,Included,A Bayesian contamination model for serial dilution assays
+10.1093/biomtc/ujag135,2026-07-27,2026-07-01,Biometrics,Included,Group sequential clinical trial designs for composite endpoints incorporating recurrent and terminal events
+10.1093/jrsssb/qkag085,2026-07-27,2026-06-13,Journal of the Royal Statistical Society: Series B,Excluded,"Si-Yang Li, David van Dyk and Maximilian Autenreith's contribution to the Discussion of ‘Regression by composition’ by Farewell et al"
+10.1093/jrsssb/qkag086,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,Andi Wang's contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag087,2026-07-27,2026-06-19,Journal of the Royal Statistical Society: Series B,Excluded,I-Chen Lee and Weng-Kee Wong’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag088,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,"Jingxin Yan, Lin Liu, Oliver Dukes, Qizhai Li, and Linbo Wang’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al."
+10.1093/jrsssb/qkag089,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,"Gaffi, Legramanti, and Rimella’s contribution to the Discussion of ‘Regression by Composition’ by Farewell et al."
+10.1093/jrsssb/qkag090,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,"Ruixuan Zhao, Oliver Dukes, Linbo Wang, and Lin Liu’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al"
+10.1093/jrsssb/qkag091,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Lyle Gurrin’s and John Holmes’ contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag092,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Excluded,"Maozai Tian, Wei Xiong, Shaopei Ma, and Jinwen Liang's Contribution to the Discussion of ‘Regression by Composition’ by Farewell et al"
+10.1093/jrsssb/qkag093,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,"Mei Dong, Linbo Wang, Lin Liu, and Oliver Dukes's contribution to the Discussion of ‘Regression by composition’ by Farewell et al"
+10.1093/jrsssb/qkag094,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Excluded,Archer Gong Zhang's contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag096,2026-07-27,2026-06-23,Journal of the Royal Statistical Society: Series B,Excluded,David L. Dowe's contribution to the Discussion of ‘Regression by composition‘ by Farewell et al
+10.1093/jrsssb/qkag097,2026-07-27,2026-06-15,Journal of the Royal Statistical Society: Series B,Included,Cheng et al's contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag100,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Heather Battey’s invited contribution to the discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag101,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Seconder of the vote of thanks to Farewell et al. and contribution to the Discussion of Regression by composition'
+10.1093/jrsssb/qkag102,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Fukang Zhu’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag103,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Excluded,López de Prado and Porcu’s contribution to the Discussion of ‘Regression by compositio’ by Farewell et al
+10.1093/jrsssb/qkag104,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Excluded,Professor Garib Nath Singh’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag105,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Vern T Farewell’s contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag106,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Excluded,Safaa K Kadhem's contribution to the Discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag107,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Davison’s contribution to the discussion of ‘Regression by composition’ by Farewell et al
+10.1093/jrsssb/qkag109,2026-07-27,2026-06-22,Journal of the Royal Statistical Society: Series B,Included,Stephen Senn's contribution to the discussion of ‘Regression by Composition’ by Farewell et al
+10.1093/jrsssb/qkag110,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Online inference under over-parameterized models with hidden confounders
+10.1093/jrsssb/qkag111,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Semiparametric fiducial inference for Cox models
+10.1093/jrsssb/qkag112,2026-07-27,2026-07-06,Journal of the Royal Statistical Society: Series B,Included,Regression by composition
+10.1093/jrsssb/qkag113,2026-07-27,2026-07-10,Journal of the Royal Statistical Society: Series B,Included,Fully decentralized inference for spatial data using low-rank models
+10.1093/jrsssb/qkag115,2026-07-27,2026-07-07,Journal of the Royal Statistical Society: Series B,Needs Review,Exact Bayesian inference for Markov switching diffusions
+10.1093/jrsssc/qlag035,2026-07-27,2026-07-06,Journal of the Royal Statistical Society: Series C,Included,Bayesian hidden Markov model with time-to-event emissions for risk-prediction in cancer screening
+10.1093/jrsssc/qlag036,2026-07-27,2026-07-08,Journal of the Royal Statistical Society: Series C,Included,Joint modelling of longitudinal HRQoL data accounting for the risk of competing dropouts
+10.1093/jrsssc/qlag037,2026-07-27,2026-06-18,Journal of the Royal Statistical Society: Series C,Included,Conformal inference for cell-type annotation with graph-structured constraints
+10.1093/jrsssc/qlag038,2026-07-27,2026-07-09,Journal of the Royal Statistical Society: Series C,Included,Bayesian profile regression with linear mixed models applied to longitudinal exposome data
+10.1093/jrsssc/qlag039,2026-07-27,2026-07-14,Journal of the Royal Statistical Society: Series C,Needs Review,Copula-based hidden semi-Markov models for mixed support data
+10.1093/jrsssc/qlag040,2026-07-27,2026-07-17,Journal of the Royal Statistical Society: Series C,Included,Modelling cure from cancer accounting for inevitable mortality
+10.1093/jrsssc/qlag041,2026-07-27,2026-07-07,Journal of the Royal Statistical Society: Series C,Included,Hyperevent network modelling of partially observed gossip data
+10.1177/09622802261454791,2026-07-27,2026-07-17,Statistical Methods in Medical Research,Included,A flexible rank-based framework for individualized treatment selection with mixed-type multivariate outcomes
+10.1177/09622802261455480,2026-07-27,2026-07-03,Statistical Methods in Medical Research,Included,A joint model for a longitudinal outcome and a progressive multistate model under a mixed observation scheme
+10.1177/09622802261455678,2026-07-27,2026-06-17,Statistical Methods in Medical Research,Included,Empirical likelihood inference for the area under the receiver operating characteristic (ROC) curve with verification biased data
+10.1177/09622802261455689,2026-07-27,2026-06-30,Statistical Methods in Medical Research,Included,Bayesian multivariate linear mixed-effects models with varied association structures
+10.1177/09622802261456076,2026-07-27,2026-07-01,Statistical Methods in Medical Research,Included,Regression analysis of misclassified current status data with potentially unknown test accuracy
+10.1177/09622802261457277,2026-07-27,2026-06-23,Statistical Methods in Medical Research,Included,A comparison of methods for designing hybrid type 2 cluster-randomized trials with continuous effectiveness and implementation endpoints
+10.1177/09622802261457281,2026-07-27,2026-06-23,Statistical Methods in Medical Research,Included,Joint analysis of longitudinal and recurrent event data: A functional regression approach with autoregressive frailty
+10.1177/09622802261458072,2026-07-27,2026-07-16,Statistical Methods in Medical Research,Included,Adaptive spline-based weighting functions for blended survival curve extrapolation
+10.1177/09622802261458074,2026-07-27,2026-07-15,Statistical Methods in Medical Research,Included,A comparison of missing data approaches for linear regression with missing not at random outcome and predictors
+10.1177/09622802261458075,2026-07-27,2026-06-17,Statistical Methods in Medical Research,Included,A bounded hazard ratio Cox model for the effect of time to treatment on mortality
+10.1177/09622802261459842,2026-07-27,2026-06-30,Statistical Methods in Medical Research,Included,Inference about the ratio of age-standardized rates between two overlapping populations
+10.1177/09622802261459873,2026-07-27,2026-06-30,Statistical Methods in Medical Research,Included,A robust neural network with random effects for subject-specific prediction of clustered count data
+10.1177/09622802261460255,2026-07-27,2026-07-03,Statistical Methods in Medical Research,Included,Efficient semi-supervised estimation of optimal individualized treatment regimes with survival outcome
+10.1177/09622802261461775,2026-07-27,2026-06-18,Statistical Methods in Medical Research,Included,Maximum likelihood estimation in proportional odds regression model based on interval-censored event-time data
+10.1177/09622802261461776,2026-07-27,2026-07-02,Statistical Methods in Medical Research,Included,Asymptotic online FWER control for dependent test statistics
+10.1177/09622802261462925,2026-07-27,2026-07-07,Statistical Methods in Medical Research,Included,Modeling treatment effects on absorbing outcomes in clinical trials: Leveraging longitudinal and ordinal data for efficiency gains
+10.1177/09622802261465334,2026-07-27,2026-07-10,Statistical Methods in Medical Research,Included,Deep learning embedded latent class joint modelling of time-to-event and longitudinal data
+10.1177/09622802261466468,2026-07-27,2026-07-10,Statistical Methods in Medical Research,Included,Nonparametric change-point control charts for joint monitoring of mean and covariance with application to medical imaging data
+10.1177/09622802261468021,2026-07-27,2026-07-15,Statistical Methods in Medical Research,Included,Estimating transmission parameters from stochastic epidemic models using survival analysis techniques
+10.1177/09622802261468022,2026-07-27,2026-07-15,Statistical Methods in Medical Research,Included,Bayesian mediation analysis for zero-inflated mediator
+10.1177/09622802261468025,2026-07-27,2026-07-11,Statistical Methods in Medical Research,Included,A more interpretable regression model for count data with excess of zeros
+10.1177/09622802261468028,2026-07-27,2026-07-11,Statistical Methods in Medical Research,Included,Nonparametric inference for the localization receiver operating characteristic curve and its extension to free-response image localization tasks
+10.1177/09622802261470081,2026-07-27,2026-07-23,Statistical Methods in Medical Research,Included,Evaluating and testing for actionable treatment effect heterogeneity
+10.1214/25-aos2594,2026-07-27,2026-06-18,The Annals of Statistics,Included,Learning extremal graphical structures in high dimensions
