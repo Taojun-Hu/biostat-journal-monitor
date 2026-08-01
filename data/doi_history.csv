@@ -1,6 +1,7 @@
 doi,first_seen,publication_date,journal,decision,title
 10.1002/sim.70613,2026-07-27,2026-06-24,Statistics in Medicine,Included,Subgroup Analysis of Interval‐censored Failure Time Data With Application to Alzheimer's Disease
 10.1002/sim.70622,2026-07-27,2026-06-24,Statistics in Medicine,Included,Rejoinder to Commentaries on “A Perspective on the Appropriate Implementation of <scp>ICH E9</scp> ( <scp>R1</scp> ) Addendum Strategies for Handling Intercurrent Events”
+10.1002/sim.70637,2026-08-01,2026-07-26,Statistics in Medicine,Included,Improving Sensitivity Analysis By Synthesizing Randomized Clinical Trials With Limited Overlap
 10.1002/sim.70638,2026-07-27,2026-07-01,Statistics in Medicine,Included,Optimal Weighted Tests for Replication Studies and the ‘Two‐Trials Rule’ With Multiple Hypotheses
 10.1002/sim.70642,2026-07-27,2026-06-24,Statistics in Medicine,Included,A Multi‐Stage Drop‐the‐Loser Design With Superiority Boundaries
 10.1002/sim.70643,2026-07-27,2026-06-23,Statistics in Medicine,Included,Improving Variance and Confidence Interval Estimation in Small‐Sample Propensity Score Analyses: Bootstrap Versus Asymptotic Methods
@@ -38,6 +39,11 @@ doi,first_seen,publication_date,journal,decision,title
 10.1002/sim.70677,2026-07-27,2026-07-21,Statistics in Medicine,Included,Designing Efficient Multicenter Trials With a Maximin Strategy
 10.1002/sim.70678,2026-07-27,2026-07-23,Statistics in Medicine,Included,Low‐Rank Variational Correction Estimation for Multi‐Source Heterogeneous Quantile Linear Regression Models
 10.1002/sim.70679,2026-07-27,2026-07-23,Statistics in Medicine,Included,On the Statistical Limitations of Landmark Analysis for Addressing Immortal Time Bias
+10.1002/sim.70681,2026-08-01,2026-07-27,Statistics in Medicine,Included,Multiple Summary Knowledge‐Based Disease Prevalence Estimation for Group Testing Data
+10.1002/sim.70682,2026-08-01,2026-07-28,Statistics in Medicine,Included,Bayesian Model Selection for Derived Responses
+10.1002/sim.70683,2026-08-01,2026-07-27,Statistics in Medicine,Included,Pragmatic Two‐Stage Design for Clinical Trials With Treatment Selection
+10.1002/sim.70684,2026-08-01,2026-07-30,Statistics in Medicine,Included,A Bayesian Optimal Adaptive Clinical Trial Design for Sequentially Integrated Therapies
+10.1002/sim.70686,2026-08-01,2026-07-30,Statistics in Medicine,Included,A Comparison of Testing Procedures for Detecting Short‐ and Long‐Term Effects of Biomarkers for Cancer Screening
 10.1080/01621459.2026.2654225,2026-07-27,2026-07-07,Journal of the American Statistical Association,Included,Investigating Spatial Dynamics in Spatial Omics Data with StarTrail
 10.1080/01621459.2026.2663587,2026-07-27,2026-07-13,Journal of the American Statistical Association,Included,Constructing Genetic Risk Scores: Robust Bayesian Approach through Projected Summary Statistics and Flexible Shrinkage
 10.1080/01621459.2026.2675377,2026-07-27,2026-07-20,Journal of the American Statistical Association,Included,"Clinical Trial Modernization: Technological, Operational, and Regulatory Advances"
@@ -70,6 +76,11 @@ doi,first_seen,publication_date,journal,decision,title
 10.1080/01621459.2026.2702652,2026-07-27,2026-07-15,Journal of the American Statistical Association,Included,A Unified Framework for Rerandomization using Quadratic Forms
 10.1080/01621459.2026.2702653,2026-07-27,2026-07-15,Journal of the American Statistical Association,Needs Review,Gaussian Invariant Markov Chain Monte Carlo
 10.1080/01621459.2026.2704884,2026-07-27,2026-07-15,Journal of the American Statistical Association,Needs Review,Double Generalized Linear Models: Likelihood and Bayesian Methods
+10.1080/01621459.2026.2704941,2026-08-01,2026-07-27,Journal of the American Statistical Association,Needs Review,On Large-Scale System of Sparse Linear Equations with Tree Structures and its Applications to Fiber Optic Networks
+10.1080/01621459.2026.2705554,2026-08-01,2026-07-27,Journal of the American Statistical Association,Needs Review,Randomization Tests for Adaptively Collected Data
+10.1080/01621459.2026.2707221,2026-08-01,2026-07-27,Journal of the American Statistical Association,Needs Review,Post-clustering Inference under Dependence
+10.1080/01621459.2026.2707661,2026-08-01,2026-07-27,Journal of the American Statistical Association,Included,Optimal Tests of the Composite Null Hypothesis Arising in Mediation Analysis
+10.1080/01621459.2026.2709669,2026-08-01,2026-07-27,Journal of the American Statistical Association,Included,Distributed Semiparametric Inference for Heterogeneous Sites via Single-Round Communication
 10.1093/biomet/asag037,2026-07-27,2026-06-16,Biometrika,Included,Quasi-Bayes empirical Bayes: a sequential approach to the Poisson compound decision problem
 10.1093/biomet/asag038,2026-07-27,2026-06-16,Biometrika,Included,Inference on covariance structure in high-dimensional multi-view data
 10.1093/biomet/asag040,2026-07-27,2026-06-23,Biometrika,Needs Review,A new class of functional conditional autoregressive models
@@ -121,6 +132,7 @@ doi,first_seen,publication_date,journal,decision,title
 10.1093/jrsssb/qkag111,2026-07-27,2026-06-16,Journal of the Royal Statistical Society: Series B,Included,Semiparametric fiducial inference for Cox models
 10.1093/jrsssb/qkag112,2026-07-27,2026-07-06,Journal of the Royal Statistical Society: Series B,Included,Regression by composition
 10.1093/jrsssb/qkag113,2026-07-27,2026-07-10,Journal of the Royal Statistical Society: Series B,Included,Fully decentralized inference for spatial data using low-rank models
+10.1093/jrsssb/qkag114,2026-08-01,2026-07-02,Journal of the Royal Statistical Society: Series B,Included,Deep learning with missing data
 10.1093/jrsssb/qkag115,2026-07-27,2026-07-07,Journal of the Royal Statistical Society: Series B,Needs Review,Exact Bayesian inference for Markov switching diffusions
 10.1093/jrsssc/qlag035,2026-07-27,2026-07-06,Journal of the Royal Statistical Society: Series C,Included,Bayesian hidden Markov model with time-to-event emissions for risk-prediction in cancer screening
 10.1093/jrsssc/qlag036,2026-07-27,2026-07-08,Journal of the Royal Statistical Society: Series C,Included,Joint modelling of longitudinal HRQoL data accounting for the risk of competing dropouts
@@ -147,6 +159,7 @@ doi,first_seen,publication_date,journal,decision,title
 10.1177/09622802261462925,2026-07-27,2026-07-07,Statistical Methods in Medical Research,Included,Modeling treatment effects on absorbing outcomes in clinical trials: Leveraging longitudinal and ordinal data for efficiency gains
 10.1177/09622802261465334,2026-07-27,2026-07-10,Statistical Methods in Medical Research,Included,Deep learning embedded latent class joint modelling of time-to-event and longitudinal data
 10.1177/09622802261466468,2026-07-27,2026-07-10,Statistical Methods in Medical Research,Included,Nonparametric change-point control charts for joint monitoring of mean and covariance with application to medical imaging data
+10.1177/09622802261468019,2026-08-01,2026-07-30,Statistical Methods in Medical Research,Included,A flexible bivariate cure model with shared random effect and associated inference and application to diabetic retinopathy data
 10.1177/09622802261468021,2026-07-27,2026-07-15,Statistical Methods in Medical Research,Included,Estimating transmission parameters from stochastic epidemic models using survival analysis techniques
 10.1177/09622802261468022,2026-07-27,2026-07-15,Statistical Methods in Medical Research,Included,Bayesian mediation analysis for zero-inflated mediator
 10.1177/09622802261468025,2026-07-27,2026-07-11,Statistical Methods in Medical Research,Included,A more interpretable regression model for count data with excess of zeros
